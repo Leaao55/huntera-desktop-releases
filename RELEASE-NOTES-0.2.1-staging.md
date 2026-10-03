@@ -1,4 +1,4 @@
-# Huntera Desktop 0.2.1 — Staging
+# Navegador Pro Huntera 2.0 — Staging 0.2.1
 
 - Companion abre em sua própria seção; o jogo usa o espaço liberado na janela.
 - Individual e Grade 2 × 2 preservam as sessões ao alternar. O menu Minha conta reúne conta, configurações e saída.
